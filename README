@@ -1,0 +1,19 @@
+1. TEAM: 
+Emily Zhai(Ruixuan):rzhai2
+Sophia(Fanbo) Xu: fxu13
+Jerry(Jianing) Fang: jfang25
+
+2. DESIGN: 
+All different pieces have “legal_move_shape ” different functions according to rules (in Rook.cpp, Pawn.cpp, Queen.cpp, King.cpp, Knight.cpp, Bishop.cpp). 
+
+Class “Board” is chess board, and board positions is accessed by std::pair<char, char>. 
+Its public functions are: overloaded “()” operator used to access const pointer to the piece given location; “add_piece” ; “display” function to display the board; “has_valid_kings” to make sure the board has the right number of kings; “check_path” that returns true if start and end pointers; “clear” that clear a piece. 
+
+Class “Chess”. 
+Its functions are:”make_move” to check if the move is valid; and the private helper functions of “make_move” including “check_pair”, “check_start”, “check_path”, “check_end”. 
+Also, “in_check” functions to check if the game is in check; “any_move” functions to check to see if a player can move any legal move; “in_mate” function ; “in_stalemate” function; and a “clear_board” helper function. 
+Plus, we overload the operator “>>”
+
+3. COMPLETENESS: which indicates how complete your solution is
+
+4. OTHER

@@ -1,0 +1,322 @@
+commit 1d97186353d7e8427dbf9003e0cf46c0d4b417ed
+Merge: bc7afbe e26bb68
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Wed May 1 16:56:57 2019 -0400
+
+    merge with sophia xu
+    Merge branch 'master' of https://bitbucket.org/EmilyZhai/ipfinal
+
+commit bc7afbe07f65505fa8d040974af01990b75e5abc
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Wed May 1 16:56:44 2019 -0400
+
+    test mystery piece
+
+commit e26bb688cce5f88caf72a59bd936ffdeba7dafd3
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Wed May 1 16:38:04 2019 -0400
+
+    niche case change
+
+commit fdd0dd46ddedcb76c697278f5a8504fa1c10b810
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Tue Apr 30 20:51:40 2019 -0400
+
+    fix from cout to cerr
+
+commit b6553c2b38203278b3eb0cabdcfb3f72d7715de7
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Tue Apr 30 20:50:32 2019 -0400
+
+    fixed memory leak from make move, check path
+
+commit b9036c25d16786f3c870c9646c406bee682c47c9
+Merge: c824ba7 9e23e18
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Tue Apr 30 13:45:16 2019 -0400
+
+    merged some conflicts
+
+commit c824ba77a080b600c6e705d72da3532808994700
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Tue Apr 30 13:43:33 2019 -0400
+
+    deleted some copy functions, add error messages
+
+commit 9e23e18a77805418a979c4ede97cd936aff4d193
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Mon Apr 29 18:18:06 2019 -0400
+
+    Added promotion
+
+commit e48fb4a574f9b5358b7d54863bda7537f365e7a2
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Mon Apr 29 17:57:56 2019 -0400
+
+    new version
+
+commit 911307da7db76db0cbe4d3fe46adf4fce29b1e09
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Mon Apr 29 17:54:00 2019 -0400
+
+    delete the parameter board for check start check end test start test end
+
+commit b78d56b2dbce7b7f2c751369fb81075826d0e38d
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Mon Apr 29 17:40:22 2019 -0400
+
+    again...debug board check path for queen
+
+commit d3491b95065a641797b5b06fc8faaba12176d5b6
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Mon Apr 29 17:15:46 2019 -0400
+
+    fixed check path for queen
+
+commit 524a43e581d1f9221404752e801cad2fbe4f3992
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 20:23:42 2019 -0400
+
+    add color for pieces
+
+commit b25a8308a02612678f3d91ecc96a8fb91cbf062b
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 20:02:54 2019 -0400
+
+    Verified function, modified makefile
+
+commit f9d256d22c394fdc0258a592bcfb73f07856e631
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 19:58:34 2019 -0400
+
+    Updated error cheching
+
+commit b11a6cbbef5f49bc6df32033d129a3854072e9ec
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Sun Apr 28 19:48:54 2019 -0400
+
+    bugs updates
+
+commit 486d24e816824dfad0a3fee1dda991faf97b078a
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Sun Apr 28 19:44:12 2019 -0400
+
+    update zip
+
+commit db70b1973a3ea2976f56603862e27604d4a4d280
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Sun Apr 28 17:53:11 2019 -0400
+
+    add Mystery.cpp file (ver1)
+
+commit 6576dafb64516d44af33e59725270e9e66e833f8
+Merge: 31f3a74 cff5be0
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Sun Apr 28 17:48:42 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/EmilyZhai/ipfinal
+
+commit 31f3a748efc764344c037eb208cf0eb532c5b2dd
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Sun Apr 28 17:45:32 2019 -0400
+
+    modify Mystery.h
+
+commit cff5be031e6c82b297f0eb9ac6f649af975056cf
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 17:39:46 2019 -0400
+
+    Added all files
+
+commit 0c0825df0a2e7a0ae25d47fd284261ddbdea93af
+Merge: 1c9b97e a429284
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 17:37:01 2019 -0400
+
+    Empty
+
+commit 1c9b97e12ca3e1326f77bae4f407770c14cd279c
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 17:32:44 2019 -0400
+
+    Adding test functions.
+
+commit a429284d55fbd62445d3f963793c66afadd6dee7
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 17:32:07 2019 -0400
+
+    fix bug for check path
+
+commit 53e4823d4e0135b4029698e2f35c8f1f8c80ef49
+Merge: a06469b febd3cc
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 17:25:59 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/EmilyZhai/ipfinal
+
+commit a06469bc0f1ae293f730c2edf8cced89fb3b45d3
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 17:21:37 2019 -0400
+
+    fix check path error for bishops and queen
+
+commit febd3ccf1cbf7f83eaab845da8f406fea2e08654
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Sun Apr 28 17:07:25 2019 -0400
+
+    Add README
+
+commit 977327f02ff037accd89d665995e0bacbd7b0124
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 16:59:34 2019 -0400
+
+    fix bug in legal move shape for king
+
+commit 0439c2c6562b1122c9f346f160829a220b8cc0ba
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 16:25:33 2019 -0400
+
+    delete some comments, comments out some prints
+
+commit 22d2e3dc0186c0db3550bbd06b8e38ff34c8fd73
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 16:14:17 2019 -0400
+
+    Added all files
+
+commit a9260582ce7218465454827f0b17692e5b8b7d48
+Merge: ff282da 265d0f7
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 16:07:44 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/EmilyZhai/ipfinal
+
+commit 265d0f79cd832559c17079297bbfa1e1807fe49f
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 16:07:23 2019 -0400
+
+    everything
+
+commit ff282da2876189032b0d467f8e069624ebd3dd89
+Merge: 3077499 d689a96
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 16:06:05 2019 -0400
+
+    Empty folder
+
+commit 30774996ab7d94d7a6f110270eb5d65f2652190f
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 15:52:22 2019 -0400
+
+    made some changes
+
+commit d689a964f7202383d37151a1eef19f10be13327c
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 28 15:51:01 2019 -0400
+
+    fixed bugs in check path
+
+commit e729397fc879aaf75bee7e97fb0a2a56c75cd51a
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 15:13:17 2019 -0400
+
+    Corrected copy function
+
+commit 07ffbe5951d14d9863da8821c8469c89421a9e25
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sun Apr 28 14:39:53 2019 -0400
+
+    Modified check, added debugger printout, error persist with in check
+
+commit 5f15a5b28f15891004f48ec9692c2071e8084e95
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sat Apr 27 22:22:01 2019 -0400
+
+    Modified check
+
+commit 9b2b04133a49a22612a6161e162ba3dbeed1529b
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Sat Apr 27 20:15:11 2019 -0400
+
+    Modified IO and one error message
+
+commit d9c841398e8ca7d3c0babd84c7c332bf4acd2a15
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sat Apr 27 17:10:02 2019 -0400
+
+    make changes in makefile and add << operator; also added some helper functions
+
+commit ac01fc038852ac8632275548a8e5f73e8aa7ace9
+Merge: 0401a36 9cb2963
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sat Apr 27 14:47:04 2019 -0400
+
+    merge with the makefile created by Fanbo Xu
+    Merge branch 'master' of https://bitbucket.org/EmilyZhai/ipfinal
+
+commit 0401a36ca086231caeb0b62eb4ca13b09873623a
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sat Apr 27 14:46:36 2019 -0400
+
+    add read in function
+
+commit 9cb2963e1f1671e4d234690e6d6e13cbb6f80853
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Sat Apr 27 14:35:36 2019 -0400
+
+    add Makefile
+
+commit 238f0d7c32491c091831c4503a179f3a9c459dca
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Fri Apr 26 02:49:55 2019 -0400
+
+    Updated check, stalemate, in check
+
+commit 6486683f280c67edf9e9a514bf58848829491fe4
+Merge: 511167a 5db28ae
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Thu Apr 25 04:36:22 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/EmilyZhai/ipfinal
+
+commit 511167a5214b8f49b89cd001e2ccfa14872ad8bc
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Thu Apr 25 04:36:14 2019 -0400
+
+    Modified check function
+
+commit 5db28ae2d03e6083454c8fb9f33b2ae361769992
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Wed Apr 24 17:18:09 2019 -0400
+
+    fix logic error in make_move
+
+commit 9a6be2a4a0c9b9fd0f81d8e673333dcea4aab02d
+Author: Jianing Fang <jfang25@jhu.edu>
+Date:   Tue Apr 23 14:32:56 2019 -0400
+
+    Debugged Board.cpp and Chess.cpp
+
+commit a62301cea13e0ff5770be19fb8d17ada5c7ba4e0
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Tue Apr 23 02:00:11 2019 -0400
+
+    wrote the make_move function on chess together with some helper functions
+
+commit a8cf5f0c148a3a77fe05bdc361250f5a96ce6f95
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Mon Apr 22 21:07:02 2019 -0400
+
+    implement functions (), add_piece, has_valid_kings, and display
+
+commit cdfc6de7e6d7d5170ffa219c9b1d313564f7126c
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Mon Apr 22 19:05:10 2019 -0400
+
+    all files
+
+commit cdc4ea7976d5b1ae723cf397bed436b74376de41
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Sun Apr 21 17:47:15 2019 -0400
+
+    implement all the move_legal_shape for bishop,queen,rook,king,pawn,Knight
